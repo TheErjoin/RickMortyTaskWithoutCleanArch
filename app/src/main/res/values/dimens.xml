@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //dp
+    <dimen name="startLine">10dp</dimen>
+    <dimen name="topLine">5dp</dimen>
+    <dimen name="middle_dp">24dp</dimen>
+    <dimen name="heavy">32dp</dimen>
+
+    //sp
+    <dimen name="just_text">12sp</dimen>
+    <dimen name="middle">24sp</dimen>
+</resources>

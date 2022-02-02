@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Rick&amp;MortyTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="character">Character</string>
+    <string name="location">Location</string>
+    <string name="episode">Episode</string>
+    <string name="search">Search</string>
+    <string name="error">Error:(</string>
+    <string name="alive">Alive</string>
+    <string name="dead">Dead</string>
+    <string name="dimension">Dimension:</string>
+    <string name="name_of_episode">Name of episode:</string>
+    <string name="data_created">Data created:</string>
+    <string name="name_of_location">Name of location</string>
+    <string name="planet_type">Planet type:</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="status">Status:</string>
+    <string name="species">Species:</string>
+    <string name="search_hint">Search character:</string>
+    <string name="choose_status">Choose status:</string>
+    <string name="unknown">Unknown</string>
+    <string name="choose_gen">Choose gen:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
